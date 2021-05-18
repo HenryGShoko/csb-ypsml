@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://henrygshoko.github.io/csb-ypsml/static/js/main.40273eed.chunk.js",
+    "main.js.map": "https://henrygshoko.github.io/csb-ypsml/static/js/main.40273eed.chunk.js.map",
+    "runtime-main.js": "https://henrygshoko.github.io/csb-ypsml/static/js/runtime-main.666c9229.js",
+    "runtime-main.js.map": "https://henrygshoko.github.io/csb-ypsml/static/js/runtime-main.666c9229.js.map",
+    "static/js/2.f5b8c434.chunk.js": "https://henrygshoko.github.io/csb-ypsml/static/js/2.f5b8c434.chunk.js",
+    "static/js/2.f5b8c434.chunk.js.map": "https://henrygshoko.github.io/csb-ypsml/static/js/2.f5b8c434.chunk.js.map",
+    "index.html": "https://henrygshoko.github.io/csb-ypsml/index.html",
+    "precache-manifest.9bc7ebbd5235ef08de84e4a8f7f62ae0.js": "https://henrygshoko.github.io/csb-ypsml/precache-manifest.9bc7ebbd5235ef08de84e4a8f7f62ae0.js",
+    "service-worker.js": "https://henrygshoko.github.io/csb-ypsml/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.666c9229.js",
+    "static/js/2.f5b8c434.chunk.js",
+    "static/js/main.40273eed.chunk.js"
+  ]
+}
